@@ -9,6 +9,8 @@
 import UIKit
 import Firebase
 
+//User cell
+
 class UserCell: UITableViewCell {
     
     var message : Message? {
